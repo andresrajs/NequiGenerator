@@ -31,7 +31,7 @@ El sistema cuenta con diferentes tipos de funcionalidades que destacan frente a 
 Para instalar correctamente el bot, sigue los siguientes pasos:
 
 1) Clonar este repositorio:
-    - <code>git clone https://github.com/xploitLabs/NequiGenerator</code>
+    - <code>git clone https://github.com/xploitLab/NequiGenerator</code>
 
 <br>
 
